@@ -1361,7 +1361,7 @@ section {
   transition: 0.3s;
 }
 .blog .entry .entry-title a:hover {
-  color: #1bbd36;
+  color: #46aee1;
 }
 .blog .entry .entry-meta {
   margin-bottom: 15px;
@@ -1406,7 +1406,7 @@ section {
   border-radius: 4px;
 }
 .blog .entry .entry-content .read-more a:hover {
-  background: #1ed33c;
+  background: #46aee1;
 }
 .blog .entry .entry-content h3 {
   font-size: 22px;
@@ -1453,7 +1453,7 @@ section {
   transition: 0.3s;
 }
 .blog .entry .entry-footer a:hover {
-  color: #1bbd36;
+  color: #46aee1;
 }
 .blog .entry .entry-footer .cats {
   list-style: none;
@@ -1540,7 +1540,7 @@ section {
   transition: 0.3s;
 }
 .blog .blog-comments .comment h5 a:hover {
-  color: #1bbd36;
+  color: #46aee1;
 }
 .blog .blog-comments .comment h5 .reply {
   padding-left: 10px;
@@ -1577,7 +1577,7 @@ section {
 }
 .blog .blog-comments .reply-form input:focus {
   box-shadow: none;
-  border-color: #57e76f;
+  border-color: #46aee1;
 }
 .blog .blog-comments .reply-form textarea {
   border-radius: 4px;
@@ -1586,7 +1586,7 @@ section {
 }
 .blog .blog-comments .reply-form textarea:focus {
   box-shadow: none;
-  border-color: #57e76f;
+  border-color: #46aee1;
 }
 .blog .blog-comments .reply-form .form-group {
   margin-bottom: 25px;
@@ -1621,7 +1621,7 @@ section {
   justify-content: center;
 }
 .blog .blog-pagination li.active, .blog .blog-pagination li:hover {
-  background: #1bbd36;
+  background: #46aee1;
 }
 .blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
   color: #fff;
@@ -1674,7 +1674,7 @@ section {
   line-height: 0;
 }
 .blog .sidebar .search-form form button:hover {
-  background: #1ecf3b;
+  background: #46aee1;
 }
 .blog .sidebar .categories ul {
   list-style: none;
@@ -1711,7 +1711,7 @@ section {
   transition: 0.3s;
 }
 .blog .sidebar .recent-posts h4 a:hover {
-  color: #1bbd36;
+  color: #46aee1;
 }
 .blog .sidebar .recent-posts time {
   display: block;
@@ -1860,7 +1860,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #2ae149;
+  background: #46aee1;
 }
 #footer .credits {
   padding-top: 5px;
@@ -1882,7 +1882,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #1bbd36;
+  background: #46aee1;
   color: #fff;
   text-decoration: none;
 }
