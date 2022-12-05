@@ -14,7 +14,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>VNGREEN - Build technology and grow people</title>
+  <title>SQT2 GLOBAL - Build technology and grow people</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -138,7 +138,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html"><img src="public/uploads/favicon.png" class="img-fluid" alt="">VN<span>GREEN</span></a></h1>
+      <h1 class="logo me-auto"><a href="index.html"><img src="public/assets/img/logo.png" class="img-fluid" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="public/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 

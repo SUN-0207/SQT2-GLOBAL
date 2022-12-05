@@ -8,20 +8,20 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(public/assets/img/slide/VNG_campus.jpg);">
+        <div class="carousel-item active" style="background-image: url(public/assets/img/slide/slide3.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Chào mừng đến với <span>VNGREEN</span></h2>
-              <p>Thành lập ngày 9/9/2004, VNGREEN hiện là công ty Internet và công nghệ hàng đầu, kỳ lân công nghệ 1 tỷ USD + duy nhất của Việt Nam.</p>
+              <h2>Chào mừng đến với <span>SQT2 GLOBAL</span></h2>
+              <p>Thành lập ngày 9/9/2004, SQT2 GLOBAL hiện là công ty Internet và công nghệ hàng đầu, kỳ lân công nghệ 1 tỷ USD + duy nhất của Việt Nam.</p>
             </div>
           </div>
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(public/assets/img/slide/VNG-15.jpg);">
+        <div class="carousel-item" style="background-image: url(public/assets/img/slide/slide1.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Thành công với VNGREEN</h2>
+              <h2>Thành công với SQT2 GLOBAL</h2>
               <p>Có hơn 80 triệu người dùng tại 193 quốc gia với 15 ngôn ngữ.
                 Ký kết Bản ghi nhớ về việc niêm yết trên sàn chứng khoán Nasdaq (Mỹ).
                 Doanh thu và lợi nhuận năm 2017 cao kỷ lục kể từ khi thành lập.
@@ -33,10 +33,10 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(public/assets/img/slide/VNG\ Campus\ 31.jpg);">
+        <div class="carousel-item" style="background-image: url(public/assets/img/slide/slide2.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Đồng hành cùng VNGREEN</h2>
+              <h2>Đồng hành cùng SQT2 GLOBAL</h2>
               <p>Chúng tôi luôn chào đón các ứng viên hoài bão, mong muốn dấn thân vào lĩnh vực Internet, yêu thích làm việc trong một môi trường năng động, trẻ trung và đầy thử thách.</p>
             </div>
           </div>
@@ -66,11 +66,11 @@
         <div class="row content">
           <div class="col-lg-6" data-aos="fade-right">
             <h2>Kiến tạo công nghệ và Phát triển con người. Vì một cuộc sống tốt đẹp hơn</h2>
-            <h3>VNGREEN tin vào sức mạnh thay đổi cuộc sống của Internet và không ngừng phát triển để mang đến cho người dùng những trải nghiệm ý nghĩa.</h3>
+            <h3>SQT2 GLOBAL tin vào sức mạnh thay đổi cuộc sống của Internet và không ngừng phát triển để mang đến cho người dùng những trải nghiệm ý nghĩa.</h3>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
             <p>
-              Thế mạnh của VNGREEN chính là con người và văn hóa doanh nghiệp. Dựa vào kim chỉ nam là 3 giá trị cốt lõi, các thành viên ở VNGREEN luôn có tinh thần cống hiến vì sự phát triển chung của VNGREEN và cộng đồng. Giá trị cốt lõi mà VNGREEN hướng tới là:
+              Thế mạnh của SQT2 GLOBAL chính là con người và văn hóa doanh nghiệp. Dựa vào kim chỉ nam là 3 giá trị cốt lõi, các thành viên ở SQT2 GLOBAL luôn có tinh thần cống hiến vì sự phát triển chung của SQT2 GLOBAL và cộng đồng. Giá trị cốt lõi mà SQT2 GLOBAL hướng tới là:
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Đón Nhận Thách Thức</li>
@@ -92,7 +92,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Sản phẩm</h2>
-          <p>Các lĩnh vực hoạt động của VNGREEN tập trung vào 4 nhóm sản phẩm chủ lực, mang đến cho người dùng những trải nghiệm phong phú và đơn giản hơn.</p>
+          <p>Các lĩnh vực hoạt động của SQT2 GLOBAL tập trung vào 4 nhóm sản phẩm chủ lực, mang đến cho người dùng những trải nghiệm phong phú và đơn giản hơn.</p>
         </div>
         <div class="row">
           <div class="col-lg-2 col-md-0"></div>
@@ -275,7 +275,7 @@
 
         <div class="section-title">
           <h2>Đối tác</h2>
-          <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa VNGREEN cùng các đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà VNGREEN đã và đang hợp tác.</p>
+          <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa SQT2 GLOBAL cùng các đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà SQT2 GLOBAL đã và đang hợp tác.</p>
         </div>
 
         <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">

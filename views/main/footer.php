@@ -12,33 +12,33 @@
               Phường Tân Thuận Đông, Quận 7<br>
               TP. Hồ Chí Minh, Việt Nam <br><br>
               <strong>Điện thoại:</strong> 090 918 34 46<br>
-              <strong>Email:</strong> start@vng.com.vn<br>
+              <strong>Email:</strong> start@sqt2.com.vn<br>
             </p>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Link liên kết</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/VNGCorporation.Page/">Facebook</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://www.youtube.com/channel/UCk2jT9v-BOmjbPZ08LUbTVA">Youtube</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/LifeAtVNG/">Life at VNG</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/groups/VNGRunClub/">VNG Run Club</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/VNGCorporation.Page/">Facebook</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.youtube.com/channel/UCk2jT9v-BOmjbPZ08LUbTVA">Youtube</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/LifeAtVNG/">Life at SQT2</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/groups/VNGRunClub/">SQT2 Run Club</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Trung tâm hỗ trợ</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://hotro.zing.vn/">Hỗ trợ tài khoản Games</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://zalo.me/lienhe.html">Hỗ trợ tài khoản Zalo</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://www.vngcloud.vn/web/guest/trang-chu">Hỗ trợ dịch vụ Clouds</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://zalopay.vn/trung-tam-ho-tro">Hỗ trợ dịch vụ ZaloPay</a></li>
+              <li><i style = "color: #46aee1" style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://hotro.zing.vn/">Hỗ trợ tài khoản Games</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://zalo.me/lienhe.html">Hỗ trợ tài khoản Zalo</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.vngcloud.vn/web/guest/trang-chu">Hỗ trợ dịch vụ Clouds</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://zalopay.vn/trung-tam-ho-tro">Hỗ trợ dịch vụ ZaloPay</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Đăng ký nhận tin tức mới nhất</h4>
-            <p>Những thông tin và tin tức mới nhất về VNGreen sẽ được gửi đến bạn qua email bạn điền dưới đây</p>
+            <p>Những thông tin và tin tức mới nhất về SQT2 GLOBAL sẽ được gửi đến bạn qua email bạn điền dưới đây</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Đăng ký">
             </form>
@@ -52,10 +52,10 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>VNGREEN</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>SQT2 GLOBAL</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <a href="index.php?page=admin&controller=layouts&action=index">VNGREEN</a>
+          Designed by <a href="index.php?page=admin&controller=layouts&action=index">SQT2 GLOBAL</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
