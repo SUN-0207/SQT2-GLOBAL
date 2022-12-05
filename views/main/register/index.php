@@ -1,9 +1,11 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-  
+	
 	<title>VNGREEN - Build technology and grow people</title>
 	<meta content="" name="description">
 	<meta content="" name="keywords">
@@ -14,6 +16,10 @@
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
   
+	<!-- MUI -->
+	<link href="public/plugins/MUI/material-ui.development.js" rel="stylesheet">
+	<link href="public/plugins/MUI/material-ui.production.min.js" rel="stylesheet">
+
 	<!-- Vendor CSS Files -->
 	<link href="public/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
 	<link href="public/assets/vendor/aos/aos.css" rel="stylesheet">
@@ -38,9 +44,8 @@
 						<strong>ĐĂNG KÝ</strong>
 					</span>
 					
-					
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input class="input100" type="text" name="email">
+						<input class="input100" type="text" name="email" placeholder = " ">
 						<span class="focus-input100"></span>
 						<span class="label-input100">Email</span>
 					</div>
@@ -109,7 +114,7 @@
 					</div>
 				</form>
 
-				<div class="login100-more" style="background-image: url('public/assets/img/slide/VNG\ Campus\ 31.jpg');">
+				<div class="login100-more" style="background-image: url('public/assets/img/thuvien.jpg');">
 				</div>
 			</div>
 		</div>
