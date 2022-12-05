@@ -23,11 +23,11 @@
         <div class="row content">
           <div class="col-lg-7" data-aos="fade-right">
             <h2>Kiến tạo công nghệ và Phát triển con người. Vì một cuộc sống tốt đẹp hơn</h2>
-            <h3>VNGREEN tin vào sức mạnh thay đổi cuộc sống của Internet và không ngừng phát triển để mang đến cho người dùng những trải nghiệm ý nghĩa.</h3>
+            <h3>SQT2 GLOBAL tin vào sức mạnh thay đổi cuộc sống của Internet và không ngừng phát triển để mang đến cho người dùng những trải nghiệm ý nghĩa.</h3>
           </div>
           <div class="col-lg-5 pt-4 pt-lg-0" data-aos="fade-left">
             <p>
-              Thế mạnh của VNGREEN chính là con người và văn hóa doanh nghiệp. Dựa vào kim chỉ nam là 3 giá trị cốt lõi, các thành viên ở VNGREEN luôn có tinh thần cống hiến vì sự phát triển chung của VNGREEN và cộng đồng. Giá trị cốt lõi mà VNGREEN hướng tới là:
+              Thế mạnh của SQT2 GLOBAL chính là con người và văn hóa doanh nghiệp. Dựa vào kim chỉ nam là 3 giá trị cốt lõi, các thành viên ở SQT2 GLOBAL luôn có tinh thần cống hiến vì sự phát triển chung của SQT2 GLOBAL và cộng đồng. Giá trị cốt lõi mà SQT2 GLOBAL hướng tới là:
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Đón Nhận Thách Thức</li>
@@ -50,7 +50,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Ban <span><strong>Điều Hành</strong></span></h2>
-          <p>VNGREEN coi việc phát triển con người là nền tảng cho mọi hoạt động của tổ chức. Trong tương lai, VNGREEN có thể thay đổi chiến lược, vận hành những sản phẩm mới, chiếm lĩnh thị trường mới,... và chính con người VNGREEN sẽ tạo ra những thay đổi này</p>
+          <p>SQT2 GLOBAL coi việc phát triển con người là nền tảng cho mọi hoạt động của tổ chức. Trong tương lai, SQT2 GLOBAL có thể thay đổi chiến lược, vận hành những sản phẩm mới, chiếm lĩnh thị trường mới,... và chính con người SQT2 GLOBAL sẽ tạo ra những thay đổi này</p>
         </div>
 
         <div class="row">
@@ -58,7 +58,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up">
               <div class="member-img">
-                <img src="public/assets/img/team/anh_Minh.jpg" class="img-fluid" alt="">
+                <img src="public/assets/img/team/Son.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -67,7 +67,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>ÔNG LÊ HỒNG MINH</h4>
+                <h4>ÔNG CÙ THANH SƠN</h4>
                 <span>Chủ tịch kiêm Tổng Giám đốc</span>
               </div>
             </div>
@@ -76,7 +76,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="public/assets/img/team/aKhai2.png" class="img-fluid" alt="">
+                <img src="public/assets/img/team/Quan.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -85,8 +85,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>ÔNG VƯƠNG QUANG KHẢI</h4>
-                <span>Phó Tổng Giám đốc điều hành VNGREEN, lãnh đạo Zalo</span>
+                <h4>ÔNG THI KHẮC QUÂN</h4>
+                <span>Phó Tổng Giám đốc điều hành SQT2 GLOBAL</span>
               </div>
             </div>
           </div>
@@ -94,7 +94,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="public/assets/img/team/anh_Tri.jpg" class="img-fluid" alt="">
+                <img src="public/assets/img/team/Thanh.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -103,8 +103,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>ÔNG VŨ MINH TRÍ</h4>
-                <span>Phó Tổng Giám đốc điều hành VNGREEN, lãnh đạo dịch vụ đám mây</span>
+                <h4>ÔNG ĐẶNG QUANG THÀNH</h4>
+                <span>Phó Tổng Giám đốc điều hành SQT2 GLOBAL, lãnh đạo dịch vụ đám mây</span>
               </div>
             </div>
           </div>
@@ -112,7 +112,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="public/assets/img/team/Anh_Dung.jpg" class="img-fluid" alt="">
+                <img src="public/assets/img/team/Tus.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -121,7 +121,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>ÔNG ĐẶNG VIỆT DŨNG</h4>
+                <h4>ÔNG PHƯƠNG CHUNG TÚ</h4>
                 <span>Lãnh đạo các cổng thanh toán dịch vụ</span>
               </div>
             </div>
@@ -137,7 +137,7 @@
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>Hình thành <span><strong>và phát triển</strong></span></h2>
-          <p>Thành lập từ năm 2004 đến nay, VNGREEN đã trải qua 14 năm phát triển và mở rộng để trở thành một trong những công ty Internet & Công nghệ hàng đầu Việt Nam và Đông Nam Á, với hơn 3200 thành viên.</p>
+          <p>Thành lập từ năm 2020 đến nay, SQT2 Global đã trải qua 14 năm phát triển và mở rộng để trở thành một trong những công ty Internet & Công nghệ hàng đầu Việt Nam và Đông Nam Á, với hơn 3200 thành viên.</p>
         </div>
         <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel" data-aos="fade-up">
           <div class="carousel-inner">
@@ -176,7 +176,7 @@
 
         <div class="section-title">
           <h2>Đối tác</h2>
-          <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa VNGREEN cùng các đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà VNGREEN đã và đang hợp tác.</p>
+          <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa SQT2 GLOBAL cùng các đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà SQT2 GLOBAL đã và đang hợp tác.</p>
         </div>
 
         <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
