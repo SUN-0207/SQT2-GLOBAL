@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>VNGREEN - Build technology and grow people</title>
+  <title>SQT2 GLOBAL - Build technology and grow people</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -385,7 +385,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Đăng ký nhận tin tức mới nhất</h4>
-            <p>Những thông tin và tin tức mới nhất về VNGreen sẽ được gửi đến bạn qua email bạn điền dưới đây</p>
+            <p>Những thông tin và tin tức mới nhất về SQT2 GLOBAL sẽ được gửi đến bạn qua email bạn điền dưới đây</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Đăng ký">
             </form>
@@ -399,10 +399,10 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>VNGREEN</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>SQT2 GLOBAL</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <a href="#">VNGREEN</a>
+          Designed by <a href="#">SQT2 GLOBAL</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
