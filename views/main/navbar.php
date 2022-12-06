@@ -22,7 +22,9 @@
   <link href="public/uploads/favicon.png" rel="icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="public/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
@@ -34,18 +36,20 @@
   <link href="public/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="public/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&amp;display=fallback">
-	<!-- Font Awesome-->
-	<link rel="stylesheet" href="public/plugins/fontawesome-free/css/all.min.css">
-	<!-- DataTables-->
-	<link rel="stylesheet" href="public/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
-	<link rel="stylesheet" href="public/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
-	<link rel="stylesheet" href="public/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
-	<!-- Theme style-->
-	<link rel="stylesheet" href="public/dist/css/adminlte.min.css">
-	<!-- Add Style -->
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&amp;display=fallback">
+  <!-- Font Awesome-->
+  <link rel="stylesheet" href="public/plugins/fontawesome-free/css/all.min.css">
+  <!-- DataTables-->
+  <link rel="stylesheet" href="public/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="public/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+  <link rel="stylesheet" href="public/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+  <!-- Theme style-->
+  <link rel="stylesheet" href="public/dist/css/adminlte.min.css">
+  <!-- Add Style -->
 
   <link href="public/assets/css/style.css" rel="stylesheet">
+
 
 
 </head>
@@ -133,12 +137,13 @@
   </div>';
   }
   ?>
-  
+
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html"><img src="public/assets/img/logo.png" class="img-fluid" alt=""></a></h1>
+      <h1 class="logo me-auto"><a href="index.html"><img src="public/assets/img/logo.png" class="img-fluid" alt=""></a>
+      </h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="public/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -170,8 +175,9 @@
       </nav><!-- .navbar -->
 
       <div class="header-social-links d-flex">
-        <a href="https://www.facebook.com/cmcglobal.careers" class="facebook"><i class="bu bi-facebook"></i></a>
-        <a href="https://www.youtube.com/@cmcglobal6946" class="youtube"><i class="bu bi-youtube"></i></a>
+        <a href="https://www.facebook.com/VNGCorporation.Page/" class="facebook"><i class="bu bi-facebook"></i></a>
+        <a href="https://www.youtube.com/channel/UCk2jT9v-BOmjbPZ08LUbTVA" class="youtube"><i
+            class="bu bi-youtube"></i></a>
       </div>
 
     </div>
