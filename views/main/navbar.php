@@ -160,7 +160,6 @@
             echo '
               <li><a href="index.php?page=main&controller=register&action=index" class="box-arrow-in-right"><i class="bu bi-file-lock-fill"></i></a></li> <!-- Đăng ký -->
               <li><a href="index.php?page=main&controller=login&action=index" class="box-arrow-in-right"><i class="bu bi-person-lines-fill"></i></a></li> <!-- Đăng nhập -->
-            
             ';
           }
           else{
