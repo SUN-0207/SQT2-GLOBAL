@@ -12,7 +12,7 @@
         <div class="carousel-container">
           <div class="carousel-content animate__animated animate__fadeInUp">
             <h2>Chào mừng đến với <span>SQT2 GLOBAL</span></h2>
-            <p>CMC Global là thành viên của Tập đoàn CMC được thành lập với khát vọng đưa các sản phẩm, giải pháp và
+            <p>CMC SQT2 là thành viên của Tập đoàn CMC được thành lập với khát vọng đưa các sản phẩm, giải pháp và
               dịch vụ CNTT-TT của Việt Nam ra thị trường quốc tế.</p>
           </div>
         </div>
@@ -205,7 +205,7 @@
             <p class="text-justify">Để phát triển trong bất kỳ bối cảnh ngành công nghiệp nào, các doanh nghiệp cần liên
               tục tăng năng suất
               và cải thiện chất lượng. Trong thời đại công nghệ 4.0, trí tuệ và sáng kiến đồng nghĩa với cơ hội doanh
-              thu, tối ưu hóa các kênh và lợi nhuận cao hơn, CMC Global tự hào là đơn vị đồng hành của nhiều doanh
+              thu, tối ưu hóa các kênh và lợi nhuận cao hơn, CMC SQT2 tự hào là đơn vị đồng hành của nhiều doanh
               nghiệp lớn để giúp họ giành lấy lợi thế trước các đối thủ cạnh tranh</p>
           </div>
         </div>
@@ -219,7 +219,7 @@
       <div class="section-title" data-oas="fade-up">
         <h2>Đối tác</h2>
         <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa SQT2 GLOBAL cùng các
-          đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà SQT2
+          đối tác tại Việt Nam và nhiều quốc gia trên thế giới. CMC SQT2 tự hào được kể tên các thương hiệu nổi tiếng mà SQT2
           GLOBAL đã và đang hợp tác.</p>
       </div>
       <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel" data-aos="fade-up">
@@ -270,7 +270,7 @@
       <div class="section-title">
         <h2>Đối tác</h2>
         <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa SQT2 GLOBAL cùng các
-          đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà SQT2
+          đối tác tại Việt Nam và nhiều quốc gia trên thế giới. CMC SQT2 tự hào được kể tên các thương hiệu nổi tiếng mà SQT2
           GLOBAL đã và đang hợp tác.</p>
       </div>
 
