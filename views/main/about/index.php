@@ -26,8 +26,8 @@
         </div>
         <div class="col-lg-5 pt-4 pt-lg-0" data-aos="fade-left">
           <p>
-            CMC Global đã hợp tác lâu dài và hợp tác với các khách hàng nổi tiếng thông qua Việt Nam và nước ngoài. Dưới
-            đây là những lý do tại sao hơn 150 khách hàng trên toàn thế giới đã chọn CMC Global làm đối tác đáng tin cậy
+            CMC SQT2 đã hợp tác lâu dài và hợp tác với các khách hàng nổi tiếng thông qua Việt Nam và nước ngoài. Dưới
+            đây là những lý do tại sao hơn 150 khách hàng trên toàn thế giới đã chọn CMC SQT2 làm đối tác đáng tin cậy
             của họ
           </p>
           <ul>
@@ -138,9 +138,9 @@
           <div class="timeline" data-aos="fade-up">
             <div class="timeline-icon"><span class="year">2016</span></div>
             <div class="timeline-content">
-              <h3 class="title">CMC Global</h3>
+              <h3 class="title">CMC SQT2</h3>
               <p class="description">
-                CMC Global tiền thân là một bộ phận của CMC Corp chuyên cung cấp dịch vụ gia công phần mềm CNTT với chỉ
+                CMC SQT2 tiền thân là một bộ phận của CMC Corp chuyên cung cấp dịch vụ gia công phần mềm CNTT với chỉ
                 50 nhân viên
               </p>
             </div>
@@ -150,8 +150,8 @@
             <div class="timeline-content">
               <h3 class="title">Web Developer</h3>
               <p class="description">
-                Công ty TNHH CMC Global được thành lập như mảng kinh doanh chủ lực của Tập đoàn nhằm đưa các sản phẩm
-                công nghệ cao và dịch vụ CNTT ra thị trường toàn cầu. CMC Global mở chi nhánh đầu tiên tại Yokohama,
+                Công ty TNHH CMC SQT2 được thành lập như mảng kinh doanh chủ lực của Tập đoàn nhằm đưa các sản phẩm
+                công nghệ cao và dịch vụ CNTT ra thị trường toàn cầu. CMC SQT2 mở chi nhánh đầu tiên tại Yokohama,
                 Nhật bản CMC Japan
               </p>
             </div>
@@ -161,7 +161,7 @@
             <div class="timeline-content">
               <h3 class="title">Web Desginer</h3>
               <p class="description">
-                CMC Global nhận giải thưởng Sao Khuê đầu tiên cho hạng mục “Dịch vụ xuất khẩu phần mềm”. CMC Global mở
+                CMC SQT2 nhận giải thưởng Sao Khuê đầu tiên cho hạng mục “Dịch vụ xuất khẩu phần mềm”. CMC SQT2 mở
                 chi nhánh tại Hồ Chí Minh, mở rộng ra thị trường phía Nam Việt Nam.
               </p>
             </div>
@@ -171,7 +171,7 @@
             <div class="timeline-content">
               <h3 class="title">Web Developer</h3>
               <p class="description">
-                CMC Global nhận giải thưởng Sao Khuê lần thứ 2 cho hạng mục “Dịch vụ xuất khẩu phần mềm
+                CMC SQT2 nhận giải thưởng Sao Khuê lần thứ 2 cho hạng mục “Dịch vụ xuất khẩu phần mềm
               </p>
             </div>
           </div>
@@ -188,7 +188,7 @@
       <div class="section-title">
         <h2>Đối tác</h2>
         <p>Danh sách đối tác ngày càng dài thêm là minh chứng cho mối quan hệ hợp tác hiệu quả giữa SQT2 GLOBAL cùng các
-          đối tác tại Việt Nam và nhiều quốc gia trên thế giới. VNG tự hào được kể tên các thương hiệu nổi tiếng mà SQT2
+          đối tác tại Việt Nam và nhiều quốc gia trên thế giới. CMC SQT2 tự hào được kể tên các thương hiệu nổi tiếng mà SQT2
           GLOBAL đã và đang hợp tác.</p>
       </div>
 
