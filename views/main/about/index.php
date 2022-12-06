@@ -57,7 +57,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="100">
+          <div class="icon-box" data-aos="zoom-in-left">
             <div class="icon"><i class="bi bi-book" style="color: #e9bf06;"></i></div>
             <h4 class="title"><a href="">Phát triển các giải pháp sáng tạo</a></h4>
             <p class="description">Tận dụng các công nghệ mới nổi để làm cho tầm nhìn của bạn sống động hơn.</p>
@@ -65,7 +65,7 @@
         </div>
 
         <div class="col-lg-4 col-md-6">
-          <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="200">
+          <div class="icon-box" data-aos="zoom-in-left">
             <div class="icon"><i class="bi bi-card-checklist" style="color: #3fcdc7;"></i></div>
             <h4 class="title"><a href="">Đẩy nhanh tốc độ ra thị trường</a></h4>
             <p class="description">Đạt được chu kỳ phân phối liên tục để vượt qua đối thủ cạnh tranh của bạn với tốc độ
@@ -73,7 +73,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-6 ">
-          <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="300">
+          <div class="icon-box" data-aos="zoom-in-left">
             <div class="icon"><i class="bi bi-binoculars" style="color:#41cf2e;"></i></div>
             <h4 class="title"><a href="">Mở rộng năng lực nhóm</a></h4>
             <p class="description">Lấp đầy khoảng trống về tài năng và nâng cao kỹ năng của nhóm bạn cùng với các nhà
@@ -82,7 +82,7 @@
         </div>
 
         <div class="col-lg-4 col-md-6">
-          <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
+          <div class="icon-box" data-aos="zoom-in-left">
             <div class="icon"><i class="bi bi-globe" style="color: #d6ff22;"></i></div>
             <h4 class="title"><a href="">Định hướng toàn cầu</a></h4>
             <p class="description">Không chỉ phục vụ các khách hàng trong nước, chúng tôi đang vươn mình để phát triển
@@ -90,7 +90,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="500">
+          <div class="icon-box" data-aos="zoom-in-left">
             <div class="icon"><i class="bi bi-clock" style="color: #4680ff;"></i></div>
             <h4 class="title"><a href="">Kiểm soát thời gian</a></h4>
             <p class="description">Mang đến cho khách hàng trải nghiệm nhanh, tiện, chính xác. Đảm bảo hoàn thành trong

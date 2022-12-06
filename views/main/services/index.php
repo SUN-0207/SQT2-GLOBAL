@@ -39,7 +39,7 @@ include_once('views/main/navbar.php');
           <li>Sản phẩm</li>
         </ol>
       </div>
-      <<<<<<< HEAD </div>
+    </div>
   </section><!-- End Breadcrumbs -->
   <!-- ======= Services Section ======= -->
   <section id="services" class="services section-bg">
