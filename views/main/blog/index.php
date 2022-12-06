@@ -1,25 +1,25 @@
 <?php
   include_once('views/main/navbar.php');
 ?>
-  <!-- ======= Breadcrumbs ======= -->
-  <section id="breadcrumbs" class="breadcrumbs">
-    <div class="container">
+<!-- ======= Breadcrumbs ======= -->
+<section id="breadcrumbs" class="breadcrumbs">
+  <div class="container">
 
-      <div class="d-flex justify-content-between align-items-center">
-        <h1 style="color: white;"><strong>TIN TỨC</strong></h1>
-        <ol>
-          <li><a href="index.php?page=main&controller=layouts&action=index">Trang chủ</a></li>
-          <li><a href="index.php?page=main&controller=blog&action=index">Tin tức</a></li>
-        </ol>
-      </div>
-
+    <div class="d-flex justify-content-between align-items-center">
+      <h1 style="color: white;" class="mt-4"><strong>TIN TỨC</strong></h1>
+      <ol>
+        <li><a href="index.php?page=main&controller=layouts&action=index">Trang chủ</a></li>
+        <li><a href="index.php?page=main&controller=blog&action=index">Tin tức</a></li>
+      </ol>
     </div>
-  </section><!-- End Breadcrumbs -->
 
-  <main id="main">
-    <!-- Modal here -->
-    <!-- Modal 1-->
-    <?php
+  </div>
+</section><!-- End Breadcrumbs -->
+
+<main id="main">
+  <!-- Modal here -->
+  <!-- Modal 1-->
+  <?php
     foreach ($recent as $news)
     {
       echo '
@@ -256,16 +256,16 @@
     }
     ?>
 
-    <!-- ======= Blog Section ======= -->
-    <section id="blog" class="blog">
-      <div class="container" data-aos="fade-up">
+  <!-- ======= Blog Section ======= -->
+  <section id="blog" class="blog">
+    <div class="container" data-aos="fade-up">
 
-        <div class="row">
+      <div class="row">
 
-          <div class="col-lg-8 entries">
-            <!-- Entry -->
+        <div class="col-lg-8 entries">
+          <!-- Entry -->
 
-            <?php
+          <?php
 
               foreach ($newses as $news) {
                 echo '
@@ -301,22 +301,22 @@
 
 
 
-            <div class="blog-pagination">
-              <ul class="justify-content-center">
-                <li><a href="index.php?page=main&controller=blog&action=index&pg=1">1</a></li>
-                <li><a href="index.php?page=main&controller=blog&action=index&pg=2">2</a></li>
-                <li><a href="index.php?page=main&controller=blog&action=index&pg=3">3</a></li>
-              </ul>
-            </div>
-
-
+          <div class="blog-pagination">
+            <ul class="justify-content-center">
+              <li><a href="index.php?page=main&controller=blog&action=index&pg=1">1</a></li>
+              <li><a href="index.php?page=main&controller=blog&action=index&pg=2">2</a></li>
+              <li><a href="index.php?page=main&controller=blog&action=index&pg=3">3</a></li>
+            </ul>
           </div>
-          <div class="col-lg-4">
 
-            <div class="sidebar">
 
-              <h3 class="sidebar-title">Bài viết gần đây</h3>
-              <div class="sidebar-item recent-posts">
+        </div>
+        <div class="col-lg-4">
+
+          <div class="sidebar">
+
+            <h3 class="sidebar-title">Bài viết gần đây</h3>
+            <div class="sidebar-item recent-posts">
               <?php
                 foreach ($recent as $news)
                 {
@@ -329,18 +329,18 @@
                 }
               ?>
 
-              </div><!-- End sidebar recent posts-->
+            </div><!-- End sidebar recent posts-->
 
-            </div><!-- End sidebar -->
+          </div><!-- End sidebar -->
 
-          </div><!-- End blog sidebar -->
-
-        </div>
+        </div><!-- End blog sidebar -->
 
       </div>
-    </section><!-- End Blog Section -->
 
-  </main><!-- End #main -->
+    </div>
+  </section><!-- End Blog Section -->
+
+</main><!-- End #main -->
 <?php
 include_once('views/main/footer.php');
 ?>
