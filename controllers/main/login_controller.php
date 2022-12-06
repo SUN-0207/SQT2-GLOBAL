@@ -18,7 +18,7 @@ class LoginController extends BaseController
 		}
 		else if (isset($_POST['submit-btn']))
 		{
-			$username = $_POST['username'];
+			$username = $_POST['email'];
 			$password = $_POST['password'];
 			unset($_POST);
 			$check = User::validation($username, $password);

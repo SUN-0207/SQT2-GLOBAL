@@ -8,10 +8,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Trụ sở chính</h3>
             <p>
-              Z06 đường số 13 <br>
-              Phường Tân Thuận Đông, Quận 7<br>
+              268 Lý Thường Kiệt <br>
+              Phường 14, Quận 10<br>
               TP. Hồ Chí Minh, Việt Nam <br><br>
-              <strong>Điện thoại:</strong> 090 918 34 46<br>
+              <strong>Điện thoại:</strong>0965 890 400<br>
               <strong>Email:</strong> start@sqt2.com.vn<br>
             </p>
           </div>
@@ -19,10 +19,10 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Link liên kết</h4>
             <ul>
-              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/VNGCorporation.Page/">Facebook</a></li>
-              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.youtube.com/channel/UCk2jT9v-BOmjbPZ08LUbTVA">Youtube</a></li>
-              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/LifeAtVNG/">Life at SQT2</a></li>
-              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/groups/VNGRunClub/">SQT2 Run Club</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/cmcglobal.careers">Facebook</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.youtube.com/@cmcglobal6946">Youtube</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/cmcglobal.careers">Life at SQT2</a></li>
+              <li><i style = "color: #46aee1" class="bx bx-chevron-right"></i> <a href="https://www.facebook.com/cmcglobal.careers">SQT2 Run Club</a></li>
             </ul>
           </div>
 
@@ -59,8 +59,8 @@
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="https://www.facebook.com/VNGCorporation.Page/" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.youtube.com/channel/UCk2jT9v-BOmjbPZ08LUbTVA" class="youtube"><i class="bx bxl-youtube"></i></a>
+        <a href="https://www.facebook.com/cmcglobal.careers" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.youtube.com/@cmcglobal6946" class="youtube"><i class="bx bxl-youtube"></i></a>
       </div>
     </div>
   </footer><!-- End Footer -->
