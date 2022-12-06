@@ -8,10 +8,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Trụ sở chính</h3>
             <p>
-              Z06 đường số 13 <br>
-              Phường Tân Thuận Đông, Quận 7<br>
+              268 Lý Thường Kiệt <br>
+              Phường 14, Quận 10<br>
               TP. Hồ Chí Minh, Việt Nam <br><br>
-              <strong>Điện thoại:</strong> 090 918 34 46<br>
+              <strong>Điện thoại:</strong>0965 890 400<br>
               <strong>Email:</strong> start@sqt2.com.vn<br>
             </p>
           </div>

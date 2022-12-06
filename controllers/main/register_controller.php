@@ -22,7 +22,7 @@ class RegisterController extends BaseController
 		$gender = $_POST['gender'];
 		$phone = $_POST['phone'];
 		$email = $_POST['email'];
-		$password = $_POST['pass'];
+		$password = $_POST['password'];
 		echo $fname . $lname . $age . $gender . $phone . $email . $password;
 		User::insert($email, 'public/img/user/default.png', $fname, $lname, $gender, $age, $phone, $password);
 		header('Location: index.php?page=main&controller=layouts&action=index');
