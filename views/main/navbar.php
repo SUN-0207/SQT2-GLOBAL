@@ -164,7 +164,10 @@
           }
           else{
             echo '
-            <li><a href="" data-toggle="modal" data-target="#EditUserModal"><i class="bu bi-person-badge-fill"></i></a></li>
+            <li><a href="" data-toggle="modal" data-target="#EditUserModal"><img style="vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;" src="' . (file_exists($data->profile_photo) ? $data->profile_photo:"public/dist/img/avatar4.png") . '"></a></li>
             <li><a href="index.php?page=main&controller=login&action=logout" class="box-arrow-in-right"><i class="bu bi-box-arrow-right"></i></a></li> <!-- Đăng xuất -->
             ';
           }

@@ -4,11 +4,10 @@
 <!-- ======= Breadcrumbs ======= -->
 <section id="breadcrumbs" class="breadcrumbs">
   <div class="container">
-
     <div class="d-flex justify-content-between align-items-center">
-      <h1 style="color: white;"><strong>CHÚNG TÔI</strong></h1>
+      <h1 style="color: white;" class="mt-4"><strong>CHÚNG TÔI</strong></h1>
       <ol>
-        <li><a href="index.php?page=main&controller=layouts&action=index">Trang chủ</a></li>
+        <li><a href=" index.php?page=main&controller=layouts&action=index">Trang chủ</a></li>
         <li><a href="index.php?page=main&controller=about&action=index">Chúng tôi</a></li>
       </ol>
     </div>
@@ -40,6 +39,68 @@
 
     </div>
   </section><!-- End About Us Section -->
+
+  <section id="services" class="services">
+    <div class="container">
+
+      <div class="section-title" data-aos="zoom-out">
+        <h2>Giá trị cốt lõi</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-md-3">
+          <div class="icon-box" data-aos="zoom-in-left">
+            <div class="icon"><i class="bi bi-briefcase" style="color: #ff689b;"></i></div>
+            <h4 class="title"><a href="">Thành tựu được công nhận</a></h4>
+            <p class="description">Chúng tôi đã phục vụ hơn 200 khách hàng và phát triển nội bộ các công ty phần mềm của
+              riêng mình, điều này giúp chúng tôi khác biệt với phần còn lại.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="icon-box" data-aos="zoom-in-left">
+            <div class="icon"><i class="bi bi-book" style="color: #e9bf06;"></i></div>
+            <h4 class="title"><a href="">Phát triển các giải pháp sáng tạo</a></h4>
+            <p class="description">Tận dụng các công nghệ mới nổi để làm cho tầm nhìn của bạn sống động hơn.</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <div class="icon-box" data-aos="zoom-in-left">
+            <div class="icon"><i class="bi bi-card-checklist" style="color: #3fcdc7;"></i></div>
+            <h4 class="title"><a href="">Đẩy nhanh tốc độ ra thị trường</a></h4>
+            <p class="description">Đạt được chu kỳ phân phối liên tục để vượt qua đối thủ cạnh tranh của bạn với tốc độ
+              tiếp cận thị trường nhanh hơn.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 ">
+          <div class="icon-box" data-aos="zoom-in-left">
+            <div class="icon"><i class="bi bi-binoculars" style="color:#41cf2e;"></i></div>
+            <h4 class="title"><a href="">Mở rộng năng lực nhóm</a></h4>
+            <p class="description">Lấp đầy khoảng trống về tài năng và nâng cao kỹ năng của nhóm bạn cùng với các nhà
+              phát triển cấp cao.</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <div class="icon-box" data-aos="zoom-in-left">
+            <div class="icon"><i class="bi bi-globe" style="color: #d6ff22;"></i></div>
+            <h4 class="title"><a href="">Định hướng toàn cầu</a></h4>
+            <p class="description">Không chỉ phục vụ các khách hàng trong nước, chúng tôi đang vươn mình để phát triển
+              ra toàn thế giới</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="icon-box" data-aos="zoom-in-left">
+            <div class="icon"><i class="bi bi-clock" style="color: #4680ff;"></i></div>
+            <h4 class="title"><a href="">Kiểm soát thời gian</a></h4>
+            <p class="description">Mang đến cho khách hàng trải nghiệm nhanh, tiện, chính xác. Đảm bảo hoàn thành trong
+              thời gian tối thiểu, tận tụy về khách hàng.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
 
   <!-- ======= Our Team Section ======= -->
   <section id="team" class="team section-bg">
